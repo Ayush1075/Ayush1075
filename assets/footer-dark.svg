@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="110" viewBox="0 0 900 110" role="img" aria-label="Footer">
+<defs><linearGradient id="f" x1="0" x2="1"><stop offset="0" stop-color="#2f81f7"/><stop offset="1" stop-color="#a371f7"/></linearGradient></defs>
+<path fill="url(#f)" opacity=".35" d="M0 60 C150 30 300 90 450 60 S750 30 900 60 V110 H0Z"><animate attributeName="d" values="M0 60 C150 30 300 90 450 60 S750 30 900 60 V110 H0Z;M0 60 C150 90 300 30 450 60 S750 90 900 60 V110 H0Z;M0 60 C150 30 300 90 450 60 S750 30 900 60 V110 H0Z" dur="9s" repeatCount="indefinite"/></path>
+<path fill="url(#f)" opacity=".75" d="M0 75 C200 55 350 95 500 75 S800 55 900 75 V110 H0Z"><animate attributeName="d" values="M0 75 C200 55 350 95 500 75 S800 55 900 75 V110 H0Z;M0 75 C200 95 350 55 500 75 S800 95 900 75 V110 H0Z;M0 75 C200 55 350 95 500 75 S800 55 900 75 V110 H0Z" dur="7s" repeatCount="indefinite"/></path>
+<text x="450.0" y="30" text-anchor="middle" style="font:500 14px 'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;fill:#8b949e">Build · Think · Adapt · Demo</text>
+</svg>
