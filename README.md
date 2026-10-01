@@ -1,26 +1,22 @@
-<h1 align="center">Hey, I'm Ayush Gupta 👋</h1>
-
 <p align="center">
-  <a href="https://github.com/Ayush1075">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Full-Stack+Engineer+%7C+AI+Systems+Builder;I+build+AI+agents+that+fix+code+before+it+ships;Graph+RAG+%E2%80%A2+Computer+Vision+%E2%80%A2+FastAPI+%E2%80%A2+MERN;Odoo+Hackathon+2026+Finalist+%7C+Flipkart+GRiD+Semi-Finalist" alt="Typing intro" />
-  </a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg" />
+  <img alt="Ayush Gupta: Full-Stack Engineer and AI Systems Builder" src="assets/hero-dark.svg" width="100%" />
+</picture>
 </p>
 
 <p align="center">
-  <b>B.Tech CSE @ BML Munjal University (Class of 2027)</b> · Shipped production software for 200+ users and 10+ universities
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.svg" />
+  <img alt="Terminal: whoami, current focus, live GitHub stats and latest commits" src="assets/terminal-dark.svg" width="100%" />
+</picture>
 </p>
 
----
-
-### 🧭 About Me
-
-I'm a full-stack engineer who likes building **systems that think**: an AI agent that catches and patches security vulnerabilities before merge, a vision pipeline that tells visually impaired users *why* a scene is dangerous, and a B2B platform where business rules live in the database, not in hardcoded `if` statements.
-
-- 🔭 **Building:** **CodeJanitor**, an autonomous security agent grounded in a Graph RAG of your codebase
-- 💼 **Shipped:** Production MERN apps at **Innodatatics** and for an **Erasmus+** consortium (Transmed)
-- 🧠 **Exploring:** Agentic AI, retrieval systems, and explainable ML
-- 🎯 **Open to:** SDE / Full-Stack / AI Engineering internships and roles
-- ⚡ **Fun fact:** I also build in **Unity & XR/VR** and model in **Blender**
+<p align="center">
+  <i>I build <b>systems that think</b>: an AI agent that patches vulnerabilities before merge, a vision pipeline that explains <b>why</b> a scene is dangerous, and a B2B platform where business rules live in the database instead of hardcoded <code>if</code> statements.</i>
+</p>
 
 ---
 
@@ -110,6 +106,31 @@ flowchart LR
 
 ---
 
+### 📊 Activity
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg" />
+  <img alt="GitHub stats" src="assets/stats-dark.svg" width="49%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/languages-light.svg" />
+  <img alt="Top languages" src="assets/languages-dark.svg" width="49%" />
+</picture>
+</p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/snake-light.svg" />
+  <img alt="Snake eating my contribution graph" src="assets/snake-dark.svg" width="100%" />
+</picture>
+</p>
+
+---
+
 ### 🏆 Achievements & Leadership
 
 | | |
@@ -122,9 +143,17 @@ flowchart LR
 
 ### 📫 Let's Connect
 
-<p align="left">
+<p align="center">
   
   <a href="mailto:ayushgupta1075.hb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Ayush1075?tab=repositories"><img src="https://img.shields.io/badge/All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="All projects" /></a>
 </p>
 
-<p align="center"><sub><i>Build. Think. Adapt. Demo.</i> · Auto-updated 01 Oct 2026</sub></p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg" />
+  <img alt="Footer wave" src="assets/footer-dark.svg" width="100%" />
+</picture>
+<br/><sub>Auto-updated 01 Oct 2026 by a GitHub Action I wrote · <a href="https://github.com/Ayush1075/Ayush1075/blob/main/.github/scripts/build_readme.py">see how</a></sub>
+</p>
