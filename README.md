@@ -70,12 +70,12 @@ flowchart LR
 
 | Repository | What it does | Language | Stars | Last updated |
 |---|---|---|---|---|
+| [**reachinbox-email-schedule**](https://github.com/Ayush1075/reachinbox-email-schedule) | No description yet | `TypeScript` | ⭐ 0 | 2026-10-14 |
 | [**keploy-go-quickstart-tutorial**](https://github.com/Ayush1075/keploy-go-quickstart-tutorial) · [Live](https://keploy-go-quickstart-tutorial.vercel.app) | Beginner-friendly Keploy tutorial for a Go (Gin + MongoDB) app, built with Next.js, MDX, Tailwind and shadcn/ui | `TypeScript` | ⭐ 0 | 2026-10-01 |
 | [**Ai_Scene_Classifier_Frontend**](https://github.com/Ayush1075/Ai_Scene_Classifier_Frontend) | No description yet | `TypeScript` | ⭐ 0 | 2026-05-30 |
 | [**Ayush-Gupta**](https://github.com/Ayush1075/Ayush-Gupta) | No description yet | `-` | ⭐ 0 | 2025-12-12 |
 | [**Inter_Management**](https://github.com/Ayush1075/Inter_Management) | No description yet | `JavaScript` | ⭐ 0 | 2025-08-02 |
 | [**Social_Media_Dashboard**](https://github.com/Ayush1075/Social_Media_Dashboard) | No description yet | `JavaScript` | ⭐ 0 | 2025-07-22 |
-| [**Transmed_deploy**](https://github.com/Ayush1075/Transmed_deploy) · [Live](https://transmed-deploy.vercel.app) | No description yet | `JavaScript` | ⭐ 0 | 2025-05-31 |
 
 ---
 
@@ -155,5 +155,5 @@ flowchart LR
   <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg" />
   <img alt="Footer wave" src="assets/footer-dark.svg" width="100%" />
 </picture>
-<br/><sub>Auto-updated 14 Oct 2026 by a GitHub Action I wrote · <a href="https://github.com/Ayush1075/Ayush1075/blob/main/.github/scripts/build_readme.py">see how</a></sub>
+<br/><sub>Auto-updated 15 Oct 2026 by a GitHub Action I wrote · <a href="https://github.com/Ayush1075/Ayush1075/blob/main/.github/scripts/build_readme.py">see how</a></sub>
 </p>
